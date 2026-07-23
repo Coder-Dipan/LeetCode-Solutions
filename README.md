@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0213-house-robber-ii](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [1260-shift-2d-grid](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Math
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0213-house-robber-ii](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 <!---LeetCode Topics End-->
