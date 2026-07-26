@@ -18,12 +18,22 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
