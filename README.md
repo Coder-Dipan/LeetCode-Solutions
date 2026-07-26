@@ -14,4 +14,16 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3174-clear-digits) |
+## Array
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
