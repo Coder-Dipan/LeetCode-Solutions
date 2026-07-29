@@ -23,6 +23,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
@@ -42,4 +43,16 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
