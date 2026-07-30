@@ -5,6 +5,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 ## String
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3174-clear-digits](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3174-clear-digits) |
 ## Stack
 |  |
@@ -26,6 +27,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 | ------- |
 | [0509-fibonacci-number](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
@@ -64,4 +66,8 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
