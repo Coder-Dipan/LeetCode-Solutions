@@ -18,6 +18,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -25,6 +26,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -49,10 +51,12 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -70,4 +74,8 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
