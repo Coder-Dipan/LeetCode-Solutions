@@ -7,6 +7,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3174-clear-digits](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3174-clear-digits) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 | [0486-predict-the-winner](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -80,9 +82,14 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
