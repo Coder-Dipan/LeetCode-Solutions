@@ -20,6 +20,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0486-predict-the-winner](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -106,4 +107,12 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
