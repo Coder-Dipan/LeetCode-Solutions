@@ -5,6 +5,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3174-clear-digits](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3174-clear-digits) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -75,6 +76,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [3731-find-missing-elements](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -93,5 +95,10 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
