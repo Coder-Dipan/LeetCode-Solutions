@@ -115,4 +115,12 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
