@@ -5,6 +5,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0567-permutation-in-string](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -14,6 +15,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [3174-clear-digits](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3174-clear-digits) |
 ## Simulation
@@ -137,5 +139,6 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
