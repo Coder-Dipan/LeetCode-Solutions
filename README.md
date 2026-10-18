@@ -26,6 +26,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0219-contains-duplicate-ii](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0486-predict-the-winner](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -87,6 +88,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -116,6 +118,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
