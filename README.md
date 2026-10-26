@@ -39,6 +39,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2614-prime-in-diagonal](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -54,6 +55,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 | [0877-stone-game](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2614-prime-in-diagonal](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/2614-prime-in-diagonal) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -151,6 +153,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [2614-prime-in-diagonal](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/2614-prime-in-diagonal) |
 ## Minimax
 |  |
 | ------- |
@@ -172,4 +175,8 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
