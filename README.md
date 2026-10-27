@@ -23,6 +23,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3174-clear-digits) |
+| [3959-check-good-integer](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3959-check-good-integer) |
 ## Array
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3959-check-good-integer](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3959-check-good-integer) |
 ## Sorting
 |  |
 | ------- |
