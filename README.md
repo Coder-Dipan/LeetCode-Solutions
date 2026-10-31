@@ -27,6 +27,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -133,6 +134,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0567-permutation-in-string](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
