@@ -50,6 +50,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -78,6 +79,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
@@ -99,6 +101,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
