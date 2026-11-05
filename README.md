@@ -39,6 +39,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 | [0977-squares-of-a-sorted-array](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -74,6 +75,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 | [0414-third-maximum-number](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -144,6 +146,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 | [0027-remove-element](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0567-permutation-in-string](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
@@ -159,6 +162,7 @@ Leetcode solutions will be automatically uplpaded here after submit the code on 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Coder-Dipan/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
